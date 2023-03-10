@@ -26,6 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddh34&show_icons=true&locale=en" alt="siddh34" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddh34&" alt="siddh34" /></p>
+
 <!---
 siddh34/siddh34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
