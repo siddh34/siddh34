@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sutar</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Sutar</h1>
 <h3 align="center">A passionate UI/UX & Android Cross Platform Developer from India</h3>
 
 - 🌱 I’m currently learning **React, Qt & UI/UX**
@@ -25,8 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddh34&show_icons=true&locale=en&layout=compact" alt="siddh34" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddh34&show_icons=true&locale=en" alt="siddh34" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddh34&" alt="siddh34" /></p>
 
 
 <!---
