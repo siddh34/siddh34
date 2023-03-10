@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sutar</h1>
 <h3 align="center">A passionate UI/UX & Android Cross Platform Developer from India</h3>
 
-- 🌱 I’m currently learning **React, Qt & UI/UX**
+- 🌱 I’m currently *Exploring* **React, Qt & UI/UX**
 
 - 💬 Ask me about **Java, CP & Flutter**
 
 - 📫 How to reach me **ssiddharthsutar@gmail.com**
 
-- ⚡ Fun fact **I think heart is valuable 💖**
+- ⚡ Fun fact **I still think heart is valuable 💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
