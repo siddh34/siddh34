@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sutar</h1>
-<h1 align="center">Hi 👋, I'm Siddharth Sutar</h1>
 <h3 align="center">A passionate UI/UX & Android Cross Platform Developer from India</h3>
 
 - 🌱 I’m currently learning **React, Qt & UI/UX**
