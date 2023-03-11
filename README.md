@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sutar</h1>
 <h3 align="center">A passionate UI/UX & Android Cross Platform Developer from India</h3>
 
-- 🌱 I’m currently *Exploring* **React, Qt & UI/UX**
+- 🌱 I’m currently learning **React, Qt & UI/UX**
 
 - 💬 Ask me about **Java, CP & Flutter**
 
 - 📫 How to reach me **ssiddharthsutar@gmail.com**
 
-- ⚡ Fun fact **I still think heart is valuable 💖**
+- ⚡ Fun fact **I think heart is valuable 💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddharth-sutar-85a197209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddharth-sutar-85a197209/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/siddharthsutar.sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/siddharthsutar.sutar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/siddsutar3/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/siddsutar3/?next=%2f" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/siddh_34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/siddh_34" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/siddh34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/siddh34" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ssiddharthsutar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ssiddharthsutar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddharth-sutar-85a197209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-sutar-85a197209" height="30" width="40" /></a>
+<a href="https://fb.com/siddharthsutar.sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddharthsutar.sutar" height="30" width="40" /></a>
+<a href="https://instagram.com/siddsutar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddsutar3" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/siddh_34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddh_34" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/siddh34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddh34" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ssiddharthsutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssiddharthsutar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
